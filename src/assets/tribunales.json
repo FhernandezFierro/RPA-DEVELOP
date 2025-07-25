@@ -1,0 +1,222 @@
+{
+	"table": "tbtribunal",
+	"rows":
+	[
+		{
+			"trib_id": 1,
+			"trib_tribunal": "1ro Juzgado Civil de Temuco",
+			"trib_edificio": 18,
+			"trib_alias": "1ro Civil Tco"
+		},
+		{
+			"trib_id": 2,
+			"trib_tribunal": "Corte de Apelaciones de Temuco",
+			"trib_edificio": 17,
+			"trib_alias": "ICA Temuco"
+		},
+		{
+			"trib_id": 3,
+			"trib_tribunal": "Edificio Ex Terraverde",
+			"trib_edificio": 22,
+			"trib_alias": "Ed Terraverde"
+		},
+		{
+			"trib_id": 4,
+			"trib_tribunal": "Juzgado  de Letras del Trabajo  de Temuco",
+			"trib_edificio": 21,
+			"trib_alias": "Letras Tco"
+		},
+		{
+			"trib_id": 5,
+			"trib_tribunal": "Juzgado de Familia de Angol",
+			"trib_edificio": 1,
+			"trib_alias": "Fam Angol"
+		},
+		{
+			"trib_id": 6,
+			"trib_tribunal": "Juzgado de Familia de Temuco",
+			"trib_edificio": 19,
+			"trib_alias": "Fam Tco"
+		},
+		{
+			"trib_id": 7,
+			"trib_tribunal": "Juzgado de Garantia de  Lautaro",
+			"trib_edificio": 7,
+			"trib_alias": "Gtia Lautaro"
+		},
+		{
+			"trib_id": 8,
+			"trib_tribunal": "Juzgado de Garantia de Angol",
+			"trib_edificio": 2,
+			"trib_alias": "Gtia Angol"
+		},
+		{
+			"trib_id": 9,
+			"trib_tribunal": "Juzgado de Garantia de Loncoche",
+			"trib_edificio": 9,
+			"trib_alias": "Gtia Lonco"
+		},
+		{
+			"trib_id": 10,
+			"trib_tribunal": "Juzgado de Garantia de Nueva Imperial",
+			"trib_edificio": 11,
+			"trib_alias": "Gtia Nva Imp"
+		},
+		{
+			"trib_id": 11,
+			"trib_tribunal": "Juzgado de Garantia de Victoria",
+			"trib_edificio": 25,
+			"trib_alias": "Gtia Victoria"
+		},
+		{
+			"trib_id": 12,
+			"trib_tribunal": "Juzgado de Garantia  Villarrica",
+			"trib_edificio": 27,
+			"trib_alias": "Gtia Villarrica"
+		},
+		{
+			"trib_id": 13,
+			"trib_tribunal": "Juzgado de Garantia Pitrufquén",
+			"trib_edificio": 13,
+			"trib_alias": "Gtia Pitrufquen"
+		},
+		{
+			"trib_id": 14,
+			"trib_tribunal": "Juzgado de Garantia Temuco",
+			"trib_edificio": 20,
+			"trib_alias": "Gtia Tco"
+		},
+		{
+			"trib_id": 15,
+			"trib_tribunal": "Juzgado de Letras de Angol",
+			"trib_edificio": 3,
+			"trib_alias": "Letras Angol"
+		},
+		{
+			"trib_id": 16,
+			"trib_tribunal": "Juzgado de Letras de Nueva Imperial",
+			"trib_edificio": 12,
+			"trib_alias": "Letras Nva Imp"
+		},
+		{
+			"trib_id": 17,
+			"trib_tribunal": "Juzgado de Letras de Lautaro",
+			"trib_edificio": 8,
+			"trib_alias": "Letras Lautaro"
+		},
+		{
+			"trib_id": 18,
+			"trib_tribunal": "Juzgado de Letras de Loncoche",
+			"trib_edificio": 10,
+			"trib_alias": "Letras Lonco"
+		},
+		{
+			"trib_id": 19,
+			"trib_tribunal": "Juzgado de Letras de Pitrufquen",
+			"trib_edificio": 14,
+			"trib_alias": "Letras Pitrufquen"
+		},
+		{
+			"trib_id": 20,
+			"trib_tribunal": "Juzgado de Letras de Victoria",
+			"trib_edificio": 26,
+			"trib_alias": "Letras Victoria"
+		},
+		{
+			"trib_id": 21,
+			"trib_tribunal": "Juzgado de Letras de Villarrica",
+			"trib_edificio": 28,
+			"trib_alias": "Letras Villarrica"
+		},
+		{
+			"trib_id": 22,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Carahue",
+			"trib_edificio": 4,
+			"trib_alias": "Letras Carahue"
+		},
+		{
+			"trib_id": 23,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Collipulli",
+			"trib_edificio": 5,
+			"trib_alias": "Letras Collipulli"
+		},
+		{
+			"trib_id": 24,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Curacautin",
+			"trib_edificio": 6,
+			"trib_alias": "Letras Curacautin"
+		},
+		{
+			"trib_id": 25,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Pucon",
+			"trib_edificio": 15,
+			"trib_alias": "Letras Pucon"
+		},
+		{
+			"trib_id": 26,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Puren",
+			"trib_edificio": 16,
+			"trib_alias": "Letras Puren"
+		},
+		{
+			"trib_id": 27,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Tolten",
+			"trib_edificio": 23,
+			"trib_alias": "Letras Tolten"
+		},
+		{
+			"trib_id": 28,
+			"trib_tribunal": "Juzgado de Letras y Garantia de Traiguen",
+			"trib_edificio": 24,
+			"trib_alias": "Letras Traiguen"
+		},
+		{
+			"trib_id": 29,
+			"trib_tribunal": "Part-time Jurisdiccion Temuco",
+			"trib_edificio": 30,
+			"trib_alias": "Part Time"
+		},
+		{
+			"trib_id": 30,
+			"trib_tribunal": "Supervisor Jurisdiccion Temuco",
+			"trib_edificio": 29,
+			"trib_alias": "Supervisor"
+		},
+		{
+			"trib_id": 31,
+			"trib_tribunal": "Tribunal Oral en lo Penal Temuco",
+			"trib_edificio": 20,
+			"trib_alias": "Top Temuco"
+		},
+		{
+			"trib_id": 32,
+			"trib_tribunal": "Tribunal Oral en lo Penal Villarrica",
+			"trib_edificio": 27,
+			"trib_alias": "Top Villarrica"
+		},
+		{
+			"trib_id": 33,
+			"trib_tribunal": "Unidad de Adquisiciones y Mentenimiento",
+			"trib_edificio": 31,
+			"trib_alias": "UAM Temuco"
+		},
+		{
+			"trib_id": 34,
+			"trib_tribunal": "2do Juzgado Civil de Temuco",
+			"trib_edificio": 18,
+			"trib_alias": "2do Civil Tco"
+		},
+		{
+			"trib_id": 35,
+			"trib_tribunal": "3er Juzgado Civil de Temuco",
+			"trib_edificio": 18,
+			"trib_alias": "3ro Civil Tco"
+		},
+		{
+			"trib_id": 36,
+			"trib_tribunal": "Tribunal Oral en lo Penal Angol",
+			"trib_edificio": 2,
+			"trib_alias": "TOP Angol"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+.css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper {
+  background-color: rgb(28, 37, 54) !important;
+  border-bottom-right-radius: 1rem !important;
+}
+
+.css-1l8j5k8 {
+  background-color: rgb(28, 37, 54) !important;
+  border-bottom-right-radius: 1rem !important;
+}
+
+.css-yb0lig {
+  color: #c6cdd7 !important;
+  margin: 0px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  display: block;
+}a
+
+.css-1f8bwsm {
+  min-width: 56px;
+  color: #c6cdd7 !important;
+  flex-shrink: 0;
+  display: inline-flex;
+}
+
+
+.css-i6s8oy {
+    min-height: 64px;
+    justify-content: center !important;
+}
+
+.divider-navbar {
+  background-color: #4a6d88;
+}
+
+.css-hyum1k-MuiToolbar-root {
+  justify-content: center;
+}
+.titulo-sgc {
+  text-decoration: none;
+}
+.titulo-sgc:hover {
+  color: #c6cdd7;
+}
+.css-10hburv-MuiTypography-root {
+  color: #c6cdd7;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  color: #c6cdd7;
+}
+
+.colored-toast.swal2-icon-success {
+  background-color: #a5dc86 !important;
+}
+
+.colored-toast.swal2-icon-error {
+  background-color: #f27474 !important;
+}
+
+.colored-toast.swal2-icon-warning {
+  background-color: #f8bb86 !important;
+}
+
+.colored-toast.swal2-icon-info {
+  background-color: #3fc3ee !important;
+}
+
+.colored-toast.swal2-icon-question {
+  background-color: #87adbd !important;
+}
+
+.colored-toast .swal2-title {
+  color: white;
+}
+
+.colored-toast .swal2-close {
+  color: white;
+}
+
+.colored-toast .swal2-html-container {
+  color: white;
+}
+
+.MuiTabs-root {
+  background-color: rgb(28, 37, 54);
+  height: 100%;
+  align-items: center;
+}
+
+.MuiTab-textColorPrimary {
+  color: #c6cdd7 !important
+}
+
+.MuiTabs-indicator{
+  background-color: #4a6d88 !important;
+  height: 5px !important;
+}
+
+.MuiButtonBase-root:focus{
+  outline: none;
+}

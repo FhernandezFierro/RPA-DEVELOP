@@ -1,0 +1,46 @@
+.loginMainContainer {
+    min-height: 100vh; 
+}
+.msg-texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #010c1e;
+    min-height: 100vh;
+    border-top-right-radius: 1.5cm;
+    border-bottom-right-radius: 1.5cm;
+}
+.titulo-msg-texto {
+    color: #d5d9e0
+}
+.texto-msg-texto {
+    color: #d5d9e0
+}
+.login-form {
+    background: #d5d9e0; 
+    min-height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid-titulo-formulario {
+    margin-bottom: 2rem;
+}
+.titulo-login-form {
+    color:#010c1e
+}
+.body1-login-form {
+    color:#4a6d88
+}
+.grid-rut {
+    width: 25%;
+    min-width: 20%;
+}
+.grid-contraseña {
+    width: 25%;
+    min-width: 20%;
+}
+.btn-envia-formulario {
+    margin-top: 1rem;
+}
+

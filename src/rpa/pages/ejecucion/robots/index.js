@@ -1,0 +1,6 @@
+export * from './archivos_familia'
+export * from './ingreso_de_exhortos'
+export * from './gestion_de_sii'
+export * from './resumen_mensual'
+export * from './devolucion_de_exhortos'
+export * from './informe_activos_fijos'

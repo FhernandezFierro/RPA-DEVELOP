@@ -1,0 +1,6 @@
+export * from './InsDevExh'
+export * from './InsIngExh'
+export * from './ArchFam'
+export * from './InsInfActFij'
+export * from './InfGestSii'
+export * from './InsTranscripcion'

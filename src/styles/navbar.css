@@ -1,0 +1,81 @@
+
+.MuiList-padding{
+    padding-bottom: 0px !important;
+}
+
+.css-1ofcqab-MuiPaper-root-MuiMenu-paper-MuiPopover-paper{
+    background-color: rgb(28, 37, 54) !important;
+}
+.css-1ofcqab-MuiPaper-root-MuiMenu-paper-MuiPopover-paper:before{
+    background-color: rgb(28, 37, 54) !important;
+}
+
+.css-1tne83u {
+    background-color: rgb(28, 37, 54) !important;
+    color: rgba(0, 0, 0, 0.87);
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    box-shadow: none;
+    position: absolute;
+    min-width: 16px;
+    min-height: 16px;
+    max-width: calc(100% - 32px);
+    max-height: calc(100% - 32px);
+    outline: 0px;
+    overflow: visible;
+    filter: drop-shadow(rgba(0, 0, 0, 0.32) 0px 2px 8px);
+    margin-top: 12px;
+}
+
+.css-1tne83u::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0px;
+    right: 14px;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(28, 37, 54) !important;
+    transform: translateY(-50%) rotate(45deg);
+    z-index: 0;
+}
+
+.css-vubbuv {
+    user-select: none;
+    width: 1em;
+    color: #c6cdd7 !important;
+    height: 1em;
+    display: inline-block;
+    fill: currentcolor;
+    flex-shrink: 0;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+}
+
+.css-1j7qk7u {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    text-align: center;
+    flex: 0 0 auto;
+    border-radius: 50%;
+    overflow: visible;
+    color: #c6cdd7 !important;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    padding: 5px;
+    font-size: 1.125rem;
+}
